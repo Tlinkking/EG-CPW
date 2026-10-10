@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pth
+*.log
+work_dirs/
+data/
+outputs/
+.idea/
+.vscode/
+*.egg-info/
+*.zip
+*.rar
+*.pdf
+*.png
+*.jpg
+.DS_Store
